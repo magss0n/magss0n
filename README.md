@@ -1,8 +1,8 @@
 ## Welcome traveller 👋
 
 
-- 👨‍🚀 Looks like you accidentally landed on my planet or maybe not :)
+- 👨‍🚀 Looks like you accidentally landed on my planet :)
 - 🔭 I’m currently working on Backend dev with SpringBoot and some mobile dev with Kotlin.
 - 📫 Get in touch: moutcheuanderson@gmail.com
-- 😄 I look forward to collaborating with you
+- 😄 I'm looking forward to collaborating with you
 - ⚡ Fun fact: Coding is fun but not as much as reading 📘
